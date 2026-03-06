@@ -192,7 +192,7 @@ This project is licensed under the [MIT License](LICENSE).
 Eine smarte CO2-Ampel auf Basis eines **ESP32**, dem **Sensirion SCD41** CO2-/Temperatur-/Feuchte-Sensor und **WS2812B NeoPixel** LEDs. Vollständig lokal über **Home Assistant** steuerbar – kein Cloud-Zwang.
 
 
-> 💡 **Du willst tiefer einsteigen?** Schau dir den [ESPHome Meisterkurs](https://esphome-meisterkurs.de) an – der umfassende deutschsprachige Kurs rund um lokale Smart-Home-Geräte mit ESP32 und Home Assistant.
+> 💡 **Du willst tiefer einsteigen?** Schau dir den [ESPHome Meisterkurs](https://alkly.de/esphome-meisterkurs/?utm_source=github&utm_medium=github&utm_campaign=meisterkurs&utm_content=CO2Sensor) an – der umfassende deutschsprachige Kurs rund um lokale Smart-Home-Geräte mit ESP32 und Home Assistant.
 
 ---
 
@@ -231,14 +231,13 @@ Neopix https://amzn.to/4rOGJCj *
 Schrauben Set https://amzn.to/4smAsO3 *
 Links mit „*“ sind Werbe Links -> Affiliate-Links zu Amazon. Bei Nutzung erhalte ich eine Provision, ohne dass dir Mehrkosten entstehen. Danke!
 
-Gehäuse gibt es in der [Macherwerkstatt](https://alkly.de/die-macherwerkstatt/?utm_source=github&utm_medium=github&utm_campaign=macherwerkstatt-live&utm_content=CO2Sensor) (monatliche Live Calls und 3D Druck Bibliothek) oder in dem [ESPHome Meisterkurs](https://alkly.de/esphome-meisterkurs/?utm_source=github&utm_medium= github&utm_campaign=meisterkurs&utm_content=CO2Sensor)
+Gehäuse gibt es in der [Macherwerkstatt](https://alkly.de/die-macherwerkstatt/?utm_source=github&utm_medium=github&utm_campaign=macherwerkstatt-live&utm_content=CO2Sensor) (monatliche Live Calls und 3D Druck Bibliothek) oder in dem [ESPHome Meisterkurs](https://alkly.de/esphome-meisterkurs/?utm_source=github&utm_medium=github&utm_campaign=meisterkurs&utm_content=CO2Sensor)
 
 ### Verkabelung
 
 ![3 6 CO2 Sensor v 01_Steckplatine](https://github.com/user-attachments/assets/8e56fdd2-8688-421e-b22b-939e065154b8)
 
 
-Ein Verdrahtungsdiagramm liegt als SVG bei: [docs/wiring_diagram.svg](docs/wiring_diagram.svg)
 
 > **Hinweis:** Bei mehr als 8 LEDs unbedingt separate 5V-Versorgung nutzen und einen 330Ω Widerstand am Datenpin sowie einen 1000µF Elko an der LED-Versorgung vorsehen.
 
