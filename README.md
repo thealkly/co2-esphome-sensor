@@ -5,7 +5,7 @@ A smart CO2 traffic light built with an **ESP32**, the **Sensirion SCD41** CO2/t
 
 
 
-🇩🇪 **Deutsche Version UNTEN **
+🇩🇪 ## Deutsche Version UNTEN
 
 ## Features
 
@@ -191,11 +191,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Eine smarte CO2-Ampel auf Basis eines **ESP32**, dem **Sensirion SCD41** CO2-/Temperatur-/Feuchte-Sensor und **WS2812B NeoPixel** LEDs. Vollständig lokal über **Home Assistant** steuerbar – kein Cloud-Zwang.
 
-🇬🇧 **[English Version](README.md)**
-
-![ESPHome](https://img.shields.io/badge/ESPHome-2025.x-blue?logo=esphome)
-![License](https://img.shields.io/badge/Lizenz-MIT-green)
-![Platform](https://img.shields.io/badge/Plattform-ESP32-orange)
 
 > 💡 **Du willst tiefer einsteigen?** Schau dir den [ESPHome Meisterkurs](https://esphome-meisterkurs.de) an – der umfassende deutschsprachige Kurs rund um lokale Smart-Home-Geräte mit ESP32 und Home Assistant.
 
@@ -236,6 +231,7 @@ Neopix https://amzn.to/4rOGJCj *
 Schrauben Set https://amzn.to/4smAsO3 *
 Links mit „*“ sind Werbe Links -> Affiliate-Links zu Amazon. Bei Nutzung erhalte ich eine Provision, ohne dass dir Mehrkosten entstehen. Danke!
 
+Gehäuse gibt es in der [Macherwerkstatt](https://alkly.de/die-macherwerkstatt/?utm_source=github&utm_medium=github&utm_campaign=macherwerkstatt-live&utm_content=CO2Sensor) (monatliche Live Calls und 3D Druck Bibliothek) oder in dem [ESPHome Meisterkurs](https://alkly.de/esphome-meisterkurs/?utm_source=github&utm_medium= github&utm_campaign=meisterkurs&utm_content=CO2Sensor)
 
 ### Verkabelung
 
