@@ -5,7 +5,7 @@ A smart CO2 traffic light built with an **ESP32**, the **Sensirion SCD41** CO2/t
 
 
 
-## Deutsche Version UNTEN
+## Deutsche Version UNTEN 🇩🇪
 
 ## Features
 
